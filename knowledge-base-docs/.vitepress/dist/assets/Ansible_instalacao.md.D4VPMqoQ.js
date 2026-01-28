@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t}from"./chunks/framework.DanffKul.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Ansible/instalacao.md","filePath":"Ansible/instalacao.md"}'),s={name:"Ansible/instalacao.md"};function n(o,c,r,i,l,p){return e(),t("div")}const m=a(s,[["render",n]]);export{d as __pageData,m as default};

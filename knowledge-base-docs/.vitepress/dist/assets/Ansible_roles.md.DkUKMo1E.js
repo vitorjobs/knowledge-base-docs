@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as s}from"./chunks/framework.D70b1pOo.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Ansible/roles.md","filePath":"Ansible/roles.md"}'),r={name:"Ansible/roles.md"};function o(a,n,c,l,i,p){return t(),s("div")}const m=e(r,[["render",o]]);export{d as __pageData,m as default};

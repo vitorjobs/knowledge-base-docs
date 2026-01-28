@@ -1,1 +1,0 @@
-import{_ as e,o,c as t}from"./chunks/framework.D70b1pOo.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Ansible/modulos.md","filePath":"Ansible/modulos.md"}'),s={name:"Ansible/modulos.md"};function a(n,r,c,d,l,i){return o(),t("div")}const _=e(s,[["render",a]]);export{p as __pageData,_ as default};
