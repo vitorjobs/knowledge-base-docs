@@ -11,6 +11,8 @@ Provisionar rapidamente uma infraestrutura de monitoramento dockerizada em máqu
 
 ## 📁 Estrutura do Projeto
 
+### Repositório GITHUB: ```https://github.com/vitorjobs/ansible-prom-grafana-stack```
+
 ```
 monitoring-ansible/
 ├── ansible.cfg                          # Configuração global do Ansible
