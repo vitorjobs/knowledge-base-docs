@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Documentação Geral",
   description: "Estudos Diversos em Tecnologia",
-  // base: 'DocumentacaoGeral',
+  base: '/knowledge-base-docs/',
   ignoreDeadLinks: true,
 
   themeConfig: {
