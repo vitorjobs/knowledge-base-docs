@@ -4,6 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Documentação Geral",
   description: "Estudos Diversos em Tecnologia",
+  base: 'DocumentacaoGeral/',
+  ignoreDeadLinks: true,
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
