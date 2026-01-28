@@ -1,0 +1,1 @@
+import{_ as e,o,c as t}from"./chunks/framework.D70b1pOo.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Ansible/playbook.md","filePath":"Ansible/playbook.md"}'),a={name:"Ansible/playbook.md"};function s(n,r,c,p,l,i){return o(),t("div")}const m=e(a,[["render",s]]);export{d as __pageData,m as default};
